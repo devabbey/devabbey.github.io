@@ -1,0 +1,38 @@
+body{
+	background-position: center;
+	background-image: url(lappy.jpg);
+	background-size: cover;
+	font-family: arial,helvetica;
+	height: 100%;
+}
+
+.container{
+	margin-top: 150px;
+	text-align: center;
+
+}
+.col{
+	padding-bottom: 150px;
+}
+.hh{
+	color: white;
+	font-size: 2em;
+
+}
+
+hr{
+	border: 1px solid #ff7400;
+	width: 5%;
+}
+
+.btn{
+	color: white;
+	background-color: #ff7400;
+	border-radius: 10px;
+	border:#ff7400;
+}
+.btn-primary:hover {
+	background-color: #ee4b08;
+	border-width: 5px;
+	transform: scale(1.3);
+}
